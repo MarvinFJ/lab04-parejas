@@ -1,2 +1,2 @@
 # lab04-parejas
-Tema del proyecto: Claro.
+Tema del proyecto: Hibrido.
